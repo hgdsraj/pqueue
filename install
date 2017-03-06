@@ -1,0 +1,3 @@
+pipsi uninstall pqueue
+pipsi install --editable pqueue
+
