@@ -5,17 +5,18 @@ A command line priority queue for organizing your life!
 
 # Installation
 
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
+Pipsi is used to implement the priority queue.  Pipsi is a virtual environment and pip wrapper.  Pipsi allows python scripts to be managed by a virtual environment to modularize each script.
+Here are the detailed [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
 
-Simply run:
+# Getting Started
+
+In terminal run:
 
     $ pipsi install .
 
+# Using pqueue
 
-# Usage
-
-To use it:
+To access a list of commands enter into terminal:
 
     $ pqueue --help
 
